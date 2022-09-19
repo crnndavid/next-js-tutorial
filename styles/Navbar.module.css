@@ -1,0 +1,16 @@
+.container {
+  background-color: black;
+  color: white;
+}
+
+.navLinks {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px 40px;
+}
+
+.navLinks li {
+  margin-right: 10px;
+}
